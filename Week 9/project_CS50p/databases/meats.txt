@@ -1,0 +1,29 @@
+Bacon
+Beef
+Bison
+Bratwurst
+Chicken Breast
+Chicken Thigh
+Cod
+Crab
+Duck
+Egg
+Goat
+Ham
+Hot Dog
+Lamb
+Liver
+Mutton
+Pepperoni
+Ground Pork
+Pork Chops
+Rabbit
+Salami
+Salmon
+Italian Sausage
+Shrimp
+Steak
+Canned Tuna
+Fresh Tuna
+Turkey Breast
+Ground Turkey
